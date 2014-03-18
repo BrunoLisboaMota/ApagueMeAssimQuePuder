@@ -1,0 +1,18 @@
+
+CRIAR O REPOSITÓRIO LOCAL
+	1. Criar uma nova pasta
+	2. Botão Direito sobre a pasta criada -> Git Create Repository Here -> OK
+	
+ADICIONAR NOVOS ARQUIVOS
+	3. Criar os arquivos 
+	4. Adicionar os arquivos ao repositório
+		Botão direito sobre o arquivo -> Tortoise Git -> Add -> OK
+		
+SALVAR AS ALTERAÇÕES NO REPOSITÓRIO LOCAL
+	5. Botão direito -> Git Commit
+	6. Preencha a mensagem descrevendo tudo o que foi feito
+	7. Clique no botão OK
+	
+VISUALIZAR O HISTÓRICO DE ALTERAÇÕES DO REPOSITÓRIO
+	8. Botão direito -> TortoiseGit -> Show Log
+		
